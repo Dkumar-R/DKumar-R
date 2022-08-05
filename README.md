@@ -12,16 +12,19 @@
 <h3 align="center">🌱 I’m currently learning </h3>
 <h2 align="center">JAVASCRIPT</h2>
 
-- My favorite hobby - **Web Developer, Graphic Designing**
-- Qualification - **B.SC-3**
-- 1<sup>st </sup> Website is **Book** 👉 https://dkumar-r.github.io/Book.github.io/
-- 2<sup>st </sup> Website is **DentelPro** 👉https://dkumar-r.github.io/DentelPro.github.io/
+- **My favorite hobby** - **Web Developer, Graphic Designing**
+- **Qualification** - **B.SC-3**
+- **1<sup>st </sup> Website is** **Book** 👉 **https://dkumar-r.github.io/Book.github.io/**
+- **2<sup>st </sup> Website is** **DentelPro** 👉 **https://dkumar-r.github.io/DentelPro.github.io/**
+- **3<sup>st </sup> Website is** **CV-Scanner** 👉 **https://dkumar-r.github.io/CV-Scanner/**
     <h1></h1>
 **Diagram For WEBSIDE**
 ```mermaid
 graph TD;
     WEBSIDE-->HTML;
      WEBSIDE-->CSS;
+     CSS-->Tailwindcss;
+     CSS-->Bootstrap;
     WEBSIDE-->JAVASCRIPT;
 ```
 
